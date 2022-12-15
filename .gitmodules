@@ -1,0 +1,15 @@
+[submodule "batrachiatc"]
+	path = batrachiatc
+	url = https://github.com/colourful-rtc/batrachiatc
+[submodule "enver"]
+	path = enver
+	url = https://github.com/colourful-rtc/enver
+[submodule "libyuv-rs"]
+	path = libyuv-rs
+	url = https://github.com/colourful-rtc/libyuv-rs
+[submodule "example"]
+	path = example
+	url = https://github.com/colourful-rtc/example
+[submodule "batrachia"]
+	path = batrachia
+	url = https://github.com/colourful-rtc/batrachia
