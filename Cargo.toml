@@ -10,6 +10,5 @@ lto = true
 members = [
     "batrachia",
     "example",
-    "enver",
     "libyuv-rs"
 ]
