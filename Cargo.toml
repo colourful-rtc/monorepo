@@ -9,6 +9,6 @@ lto = true
 [workspace]
 members = [
     "batrachia",
-    "example",
-    "libyuv-rs"
+    "libyuv-rs",
+    "example"
 ]
